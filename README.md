@@ -1,6 +1,6 @@
 A new Flutter project.
 
-![contoh gambar].(SS_HASIL.JPG)
+![Contoh Gambar](SS_HASIL.JPG)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
