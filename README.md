@@ -1,7 +1,3 @@
-# UTS_006TPLM005_221011402633
-=======
-# weather_app_design
-
 A new Flutter project.
 
 ## Getting Started
